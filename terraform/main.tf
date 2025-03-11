@@ -22,7 +22,7 @@ resource "google_project" "default" {
 
   # project_id は全世界で一意になる必要がある。
   # 今回は、各自で適当にidを変更すること。しかし、大文字は使えない。
-  project_id      = "c4s-cloudfff-sandbox-20250304"
+  project_id      = "c4s-cloudf2-sandbox-20250304"
   # これはなんでもいい。
   name            = "C4s-CloudF-sandbox"
 
